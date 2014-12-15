@@ -1,0 +1,17 @@
+{
+  "name": "find-alternate-index",
+  "version": "1.0.0",
+  "description": "Find an index file if path is a directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Dan VerWeire",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^3.0.3"
+  },
+  "dependencies": {
+    "dank-do-while": "^0.1.2"
+  }
+}
